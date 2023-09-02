@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/GameDev/UnrealEngine5/Tutorials/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/GameDev/UnrealEngine5/Tutorials/WarehouseWreckage/Content/Maps/Minimal_Default.umap",
+				"C:/GameDev/UnrealEngine5/Tutorials/WarehouseWreckage/Content/Maps/BP_Projectile.uasset",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/Maps/Minimal_Default.umap",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/Maps/BP_Projectile.uasset"
+			]
+		}
+	]
+}
