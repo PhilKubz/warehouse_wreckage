@@ -5,11 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/Maps/Minimal_Default.umap",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/Maps/BP_Projectile.uasset",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/MainMap.umap",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/IndustryPropsPack6/Meshes/BP_Barrell.uasset",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/BP_Barrell.uasset",
+				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/IndustryPropsPack6/Meshes/SM_Box02.uasset",
 				"C:/GameDev/UnrealEngine5/Tutorials/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/GameDev/UnrealEngine5/Tutorials/WarehouseWreckage/Content/Maps/Minimal_Default.umap",
-				"C:/GameDev/UnrealEngine5/Tutorials/WarehouseWreckage/Content/Maps/BP_Projectile.uasset",
-				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/Maps/Minimal_Default.umap",
-				"C:/GameDev/UnrealEngine5/Tutorials/warehouse_wreckage/Content/Maps/BP_Projectile.uasset"
+				"C:/GameDev/UnrealEngine5/Tutorials/WarehouseWreckage/Content/Maps/BP_Projectile.uasset"
 			]
 		}
 	]
